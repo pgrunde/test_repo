@@ -1,3 +1,5 @@
+# Methord sort returns a sorted list
+
 array = ["one", "two", "three", "four"]
 
 def sort arr
